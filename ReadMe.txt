@@ -38,14 +38,13 @@ oalTouch demonstrates use of the OpenAL framework for positional audio, and as s
 ===========================================================================
 BUILD REQUIREMENTS:
 
-Mac OS X v10.5.3, Xcode 3.1, iPhone OS 2.1, iPhone SDK for iPhone OS 2.1 and later
+iOS 4.0 SDK
 
 
 ===========================================================================
 RUNTIME REQUIREMENTS:
 
-Simulator: Mac OS X v10.5.3, iPhone SDK 2.1 and later
-iPhone: iPhone OS 2.1
+iPhone OS 3.2 and later
 
 
 ===========================================================================
@@ -73,4 +72,4 @@ oalSpatialView.m
 The oalSpatialView class defines the view object, responsible for handling user interaction and displaying the representation of the OpenAL environment.
 
 ================================================================================
-Copyright (C) 2008 Apple Inc. All rights reserved.
+Copyright (C) 2008-2010 Apple Inc. All rights reserved.
